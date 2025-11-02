@@ -1,0 +1,9 @@
+ {
+    "top": "mac",
+    "files":
+     ["part3/multiply-accumulate/multiply-accumulate.sv"
+     ,"provided/DSP48A1.v"
+     ,"provided/ff_mux.v"
+     ,"provided/mux_4to1.v"
+    ]
+}

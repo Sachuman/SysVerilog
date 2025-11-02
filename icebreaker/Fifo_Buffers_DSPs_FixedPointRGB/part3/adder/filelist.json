@@ -1,0 +1,9 @@
+ {
+    "top": "adder",
+    "files":
+     ["part3/adder/adder.sv"
+     ,"provided/DSP48A1.v"
+     ,"provided/ff_mux.v"
+     ,"provided/mux_4to1.v"
+    ]
+}
